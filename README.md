@@ -93,7 +93,7 @@ Final Result (SPAM / HAM)
 
 ## 👤 Author
 
-Your Name — [GitHub](https://github.com/YOUR_USERNAME)
+Your Name — [GitHub](https://github.com/jamis-mistry)
 
 ---
 *Built as an academic project demonstrating NLP + ML for email spam classification.*
