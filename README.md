@@ -94,6 +94,7 @@ Final Result (SPAM / HAM)
 ## 👤 Author
 
 Jamis Mistry — [GitHub](https://github.com/jamis-mistry)
+
 Naivedh Jariwala — [GitHub](https://github.com/naivedhjariwala)
 
 ---
